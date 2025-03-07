@@ -1,0 +1,7 @@
+{
+  "Business, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\berna\\source\\repos\\ErrorManagementSystem\\Business",
+  "Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\berna\\source\\repos\\ErrorManagementSystem\\Core",
+  "DataAccess, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\berna\\source\\repos\\ErrorManagementSystem\\DataAccess",
+  "Entities, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\berna\\source\\repos\\ErrorManagementSystem\\Entities",
+  "WebAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\berna\\source\\repos\\ErrorManagementSystem\\WebAPI"
+}
